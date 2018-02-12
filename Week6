@@ -1,7 +1,7 @@
 # Week6
 # This program asks for r, the radius of the circle, and calculates the circle's area
-print('What is the circle's radius?') # asks for radius
+print("What is the circle's radius?"") # asks for radius
 radius = input()
 # a = pi*radius**2
-c = 2*pi*ci
-print('The circle's radius is ' + c)
+c = 2*pi*radius
+print("The circle's circumference is "" + c)
